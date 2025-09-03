@@ -1,2 +1,13 @@
-# malaria-transmission-model
-This project is about Modeling Transmission and Dynamics Analysis of Malaria
+#   Malaria Transmission Model
+
+##   Overview
+This project develops **mathematical and models** for malaria transmission
+It is designed for researchers, students, and public health practitioners to simula>
+
+### Research Objectives
+- Model malaria transmission using **SIR/SEIR frameworks** and vector-borne extensi>
+- Incorporate **fractional-order (Caputo) differential equations** for advanced dyn>
+- Evaluate the impact of interventions such as **bed nets, treatment, and vaccinati>
+- Provide a **reproducible research pipeline** for malaria modeling studies
+
+---
